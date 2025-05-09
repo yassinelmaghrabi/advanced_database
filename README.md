@@ -1,5 +1,4 @@
 
-````markdown
 # University Course Enrollment System
 
 This is a University Course Enrollment System built using SQL Server, designed for managing students, courses, enrollments, and related functionalities. The system supports features like enrolling students, applying discounts, checking prerequisites, calculating tuition, and assigning grades.
@@ -12,10 +11,7 @@ This is a University Course Enrollment System built using SQL Server, designed f
 
 ## Setup
 
-### 1. Clone the Repository
 
-Clone this repository to your local machine:
-````
 
 ### 2. Run the Application with Docker
 
