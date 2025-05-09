@@ -52,6 +52,14 @@ Ensure that the path to your SQL scripts is correct.
 
 You can now begin querying the system and testing the functionalities. Here are some common queries and how to test the system:
 
+### 0. Switch database
+
+Switch to the university DB
+```sql
+USE UniversityDB;
+GO;
+```
+
 ### 1. List All Students
 
 To see a list of all students:
