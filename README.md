@@ -6,8 +6,7 @@ This is a University Course Enrollment System built using SQL Server, designed f
 ## Requirements
 
 - Docker
-- SQL Server
-- SQL Server Command-Line Tools (`sqlcmd`)
+- docker-compose
 
 ## Setup
 
